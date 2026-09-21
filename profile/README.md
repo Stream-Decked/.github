@@ -2,4 +2,4 @@
 
 **WORK IN PROGRESS**
 
-Todo: write stuff here
+Stream Decked is a Minecraft mod library to support Elgato's Stream Decks.
